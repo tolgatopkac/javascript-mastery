@@ -8,3 +8,6 @@ This repository contains the projects I implemented while watching the JavaScrip
 
 - [**Figma**](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310:485)
 - [**Live**](https://62fcc95286231c0d0c559b8f--bright-frangollo-661287.netlify.app/)
+
+
+fork ettim ve degisiklik yaptım
